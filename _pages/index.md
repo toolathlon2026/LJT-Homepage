@@ -9,6 +9,15 @@ layout: home
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Junteng%20Liu-blue)](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
 [![X/Twitter](https://img.shields.io/badge/X/@junteng88716710-blue)](https://twitter.com/junteng88716710)
 
+## Quick Links
+
+- **[About Me](/about)** - Personal information, academic background, and research overview
+- **[Publications](/publications)** - Complete list of my academic publications
+- **[Research Experience](/research)** - Detailed information about my research work and experience
+- **[Skills](/skills)** - Technical competencies and programming languages
+- **[Contact Me](/contact)** - How to get in touch and collaboration opportunities
+- **[CV](/cv)** - Complete curriculum vitae
+
 ## First-year PhD candidate at HKUST NLP Group
 
 I am a first-year PhD candidate at the [HKUST NLP Group](https://nlp.ust.hk/) under the supervision of [Professor Junxian He](https://jxhe.github.io/). Before joining HKUST, I graduated with a B.Eng. from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) in June 2024.
@@ -21,26 +30,26 @@ My research focuses on natural language processing and machine learning, with sp
 - **Hallucination in Vision-Language Models (VLM)**
 - **LLM Truthfulness and Interpretability**
 
-## Navigation
+## Education
 
-- **[About Me](/about)** - Personal information, academic background, and research overview
-- **[Publications](/publications)** - Complete list of my academic publications
-- **[Research Experience](/research)** - Detailed information about my research work and experience
-- **[Skills](/skills)** - Technical competencies and programming languages
-- **[Contact Me](/contact)** - How to get in touch and collaboration opportunities
+### Ph.D. in Computer Science (2024-Present)
+Hong Kong University of Science and Technology
+
+### B.Eng. (2020-2024)
+Shanghai Jiao Tong University
 
 ## Publications
 
 ### First Author
 
 1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025)
-   - [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=zh-cn&citation_for_view=tbK9jl4AAAAJ:xyz1) | [GitHub](https://github.com/Vicent0205/SynLogic)
+   - [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&citation_for_view=tbK9jl4AAAAJ:xyz1) | [GitHub](https://github.com/Vicent0205/SynLogic)
 
 2. **On the Perception Bottleneck of VLMs for Chart Understanding** (2025)
-   - [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=zh-cn&citation_for_view=tbK9jl4AAAAJ:xyz2) | [GitHub](https://github.com/Vicent0205/Vision4Chart)
+   - [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&citation_for_view=tbK9jl4AAAAJ:xyz2) | [GitHub](https://github.com/Vicent0205/Vision4Chart)
 
 3. **On the Universal Truthfulness Hyperplane Inside LLMs** (2024, EMNLP 2024)
-   - [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=zh-cn&citation_for_view=tbK9jl4AAAAJ:xyz3) | [GitHub](https://github.com/Vicent0205/Universal_Truthfulness_Hyperplane)
+   - [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&citation_for_view=tbK9jl4AAAAJ:xyz3) | [GitHub](https://github.com/Vicent0205/Universal_Truthfulness_Hyperplane)
 
 ### Co-Author
 
@@ -66,3 +75,7 @@ My research focuses on natural language processing and machine learning, with sp
 
 ---
 Based on my research experience and academic background, I am passionate about advancing the frontier of natural language processing and machine learning, particularly in the areas of large language model reasoning, vision-language model understanding, and model interpretability.
+
+## Recent Articles and News
+
+Stay updated with the latest news about my research and academic activities. Visit my social media channels or check the publications section for the latest academic outputs.
